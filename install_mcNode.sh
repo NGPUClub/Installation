@@ -8,10 +8,10 @@
 #./install_mcNode.sh --nodeAddr 0xf9cfaa04f5c56577944cb1651ce77c07ede74c01 --nodeName AAA-node --ipAddr 192.168.15.3 --home /home/ngpu --storage 100
 
 # 
-configUrl='http://ecotoolstest.ngpu.ai:8443/ipvConfigML/ipvConfig?nodeAddr='
+configUrl='http://ecotools.ngpu.ai:9090/ipvConfigML/ipvConfig?nodeAddr='
 
 # Installation package 
-softUrl='http://ecotools.ngpu.ai:81'
+softUrl='http://ecotoolstest.ngpu.ai'
 
 # API
 apiPostUrl='https://wrong-old-domain'
